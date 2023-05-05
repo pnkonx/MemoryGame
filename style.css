@@ -1,0 +1,14 @@
+img{
+    width: 75px;
+    height: 75px;
+    margin: 0;
+    padding:0;
+    background: lightpink;
+}
+
+#grid{
+    width: 300px;
+    height: 225px;
+    display: flex;
+    flex-wrap: wrap;
+}
